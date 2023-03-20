@@ -1,0 +1,18 @@
+table {
+    width: 700px;
+    border-collapse: collapse;
+    font-family: Arial;
+  }
+  
+  th {
+    background-color: #18453b;
+    color: white;
+  }
+  
+  td,
+  th {
+    text-align: left;
+    padding: 6px;
+    border: 1px solid black;
+  }
+  
